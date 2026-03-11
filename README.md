@@ -88,10 +88,13 @@ The most prominent emotional signals were **anticipation and trust**, suggesting
 ## Repository Structure
 
 ```
-├── README.md
 ├── dashboard/
+│
 ├── images/
-└── prep/
+│
+├── prep/
+│
+└── README.md
 ```
 
 ---
